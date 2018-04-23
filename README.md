@@ -1,2 +1,2 @@
-# Programacion-1
-Proyectos en clases de programacion
+# Programacion-Laboratorio_I
+Material de las clases
